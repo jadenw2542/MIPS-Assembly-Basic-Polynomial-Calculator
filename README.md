@@ -1,4 +1,6 @@
-# Homework 5
+# Homework 5 
+## Basic polynomial calculator that can do addition and multiplication of polynomials
+## Uses MIPS assembly dynamic allocator and linked lists to maintain polynomials 
 
 ## Learning Outcomes
 
